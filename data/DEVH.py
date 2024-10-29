@@ -7,7 +7,7 @@ from opentps.core.data.images import DoseImage
 from opentps.core.data.images import ROIMask
 from opentps.core.data import ROIContour
 from opentps.core.processing.imageProcessing import resampler3D
-from probabilisticRadiobiologicalOptimization.data.image.CTDImage import CTDImage
+from PRBIO.data.image.CTDImage import CTDImage
 
 
 class DEVH(DVH) :

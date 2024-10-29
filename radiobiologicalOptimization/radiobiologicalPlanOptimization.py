@@ -1,5 +1,5 @@
 from opentps.core.processing.planOptimization.planOptimization import PlanOptimizer
-from probabilisticRadiobiologicalOptimization.radiobiologicalOptimization.objectives.radiobiologicalEvalutation import RadiobiologicalObjective
+from PRBIO.radiobiologicalOptimization.objectives.radiobiologicalEvalutation import RadiobiologicalObjective
 import scipy.sparse as sp
 import numpy as np
 import logging

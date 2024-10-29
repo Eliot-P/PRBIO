@@ -1,5 +1,5 @@
 from opentps.core.processing.planOptimization.planOptimization import PlanOptimizer
-from probabilisticRadiobiologicalOptimization.probabilisticOptimization.objectives.probabilisticFidelity import ProbabilisticFidelity
+from PRBIO.probabilisticOptimization.objectives.probabilisticFidelity import ProbabilisticFidelity
 import scipy.sparse as sp
 import logging
 logger = logging.getLogger(__name__)

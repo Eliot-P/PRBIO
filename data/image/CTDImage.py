@@ -2,8 +2,7 @@ import copy
 import sys
 sys.path.append('..')
 
-from probabilisticRadiobiologicalOptimization.data.phantom import *
-from probabilisticRadiobiologicalOptimization.data.image.utils import *
+from PRBIO.data.image.utils import *
 
 
 
