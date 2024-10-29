@@ -67,6 +67,8 @@ plan.planDesign.objectives.addBiologicalObjective(pharConsMid, 10, 1*alpha, eta,
 solver = RadiobiologicalPlanOptimizer(plan, ctd,initial_weights=None, gamma=gamma, Nfractions=Nfrac)
 ````
 
-
+## Contacts 
+> **[Eliot Peeters](https://www.linkedin.com/in/eliot-peeters-a48b03257/)** *(UCLouvain/IREC/MIRO)* : eliot.peeters@uclouvain.be \
+> **[Romain Schyns](https://www.linkedin.com/in/romain-schyns-290b04257/)** *(UCLouvain/IREC/MIRO)* : romain.schyns@uclouvain.be  
 
 
